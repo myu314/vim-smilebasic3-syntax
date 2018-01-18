@@ -1,6 +1,6 @@
 # vim-smilebasic3-syntax
 
-[SmileBASIC ver3](http://smilebasic.com/) syntax highlighting for Vim.
+[SmileBASIC](http://smilebasic.com/) ver3 syntax highlighting for Vim.
 
 
 ## Known Issues

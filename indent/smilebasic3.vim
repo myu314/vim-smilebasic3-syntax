@@ -11,7 +11,7 @@ let b:did_indent = 1
 setlocal nolisp
 setlocal autoindent
 setlocal indentexpr=SmileBasic3Indent(v:lnum)
-setlocal indentkeys+=0=~END,0=~WEND,0=~UNTIL,0=~NEXT,0=ELSE,0=ELSEIF,0=~ENDIF
+setlocal indentkeys+=0=~END,0=~WEND,0=~UNTIL,0=~NEXT,0=~ELSE,0=~ELSEIF,0=~ENDIF
 
 if exists('*SmileBasic3Indent')
   finish
